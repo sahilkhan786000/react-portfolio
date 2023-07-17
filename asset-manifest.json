@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.061da0fb.css",
+    "main.js": "/react-portfolio/static/js/main.ff16c35b.js",
+    "static/media/social.png": "/react-portfolio/static/media/social.d3ca60394f1c9fac7f2f.png",
+    "static/media/food.png": "/react-portfolio/static/media/food.1927aa6219296ded990e.png",
+    "static/media/port3.png": "/react-portfolio/static/media/port3.0dfa1130a306b5ab18d6.png",
+    "static/media/medicine.png": "/react-portfolio/static/media/medicine.84a89798badbe827722e.png",
+    "static/media/major.png": "/react-portfolio/static/media/major.fdb5c909acdbfe3ab3a2.png",
+    "static/media/port1.png": "/react-portfolio/static/media/port1.79127ed9d6d4a3891213.png",
+    "static/media/portf.png": "/react-portfolio/static/media/portf.6b9dda9c2509e34328ba.png",
+    "static/media/food1.jpg": "/react-portfolio/static/media/food1.3eb933b1efecd8fe794e.jpg",
+    "static/media/port2.png": "/react-portfolio/static/media/port2.f8016d932b3f55597d1d.png",
+    "static/media/admin.png": "/react-portfolio/static/media/admin.e08ff9bc15a4f6a16e30.png",
+    "static/media/profile.png": "/react-portfolio/static/media/profile.519193b6467e8461950b.png",
+    "static/media/mongodb.svg": "/react-portfolio/static/media/mongodb.219f7ae3c9abd445d6b82c941ad73702.svg",
+    "static/media/reactjs.svg": "/react-portfolio/static/media/reactjs.e72c9ed5483656b44c338310ad3219ce.svg",
+    "static/media/python.svg": "/react-portfolio/static/media/python.4298525c028749eb4fa154f8f5bd1931.svg",
+    "static/media/express.svg": "/react-portfolio/static/media/express.29d127822ca1510dacb1fcb65a907b70.svg",
+    "static/media/redux.svg": "/react-portfolio/static/media/redux.0d451f4a96daa541b83b419534633d6e.svg",
+    "static/media/javascript.svg": "/react-portfolio/static/media/javascript.0866c81b3b841c647e23b8a5d991c312.svg",
+    "static/media/nodejs.svg": "/react-portfolio/static/media/nodejs.5e939dd888e37b1c5feb11e39849389c.svg",
+    "index.html": "/react-portfolio/index.html",
+    "static/media/nextjs.svg": "/react-portfolio/static/media/nextjs.6dba13893ca5278d6e2a4a5ecf443e8d.svg",
+    "static/media/nextjs2.svg": "/react-portfolio/static/media/nextjs2.8c6e83bb8f4e115ea520e96849ae6b82.svg",
+    "static/media/css3.svg": "/react-portfolio/static/media/css3.315b8fdb9dbf75ae965b80bf368895cd.svg",
+    "static/media/html.svg": "/react-portfolio/static/media/html.0107c93943a8f415b5db64ebb0a9d12d.svg",
+    "main.061da0fb.css.map": "/react-portfolio/static/css/main.061da0fb.css.map",
+    "main.ff16c35b.js.map": "/react-portfolio/static/js/main.ff16c35b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.061da0fb.css",
+    "static/js/main.ff16c35b.js"
+  ]
+}
