@@ -4,18 +4,9 @@ import {
   HTML5,
   Javascript,
   Mongodb,
-  Nextjs,
-  Nextjs2,
   Nodejs,
   Python,
   Reactjs,
-  // admin,
-  // food,
-  // food1,
-  // port1,
-  // port2,
-  // port3,
-  // social,
   medicine,
   portf,
 
@@ -24,19 +15,19 @@ import {
 export const projectStats = [
   {
     name: "Total Projects",
-    value: "200+",
+    value: "10+",
   },
   {
     name: "Website Design",
-    value: "150+",
+    value: "5",
   },
   {
     name: "Mobile App Design",
-    value: "50",
+    value: "",
   },
   {
     name: "Clients worldwide",
-    value: "+86",
+    value: "",
   },
 ];
 
@@ -57,10 +48,7 @@ export const tools = [
     name: "NodeJs",
     icon: Nodejs,
   },
-  {
-    name: "NextJs",
-    icon: Nextjs2,
-  },
+
 ];
 
 export const skills = [
@@ -73,11 +61,6 @@ export const skills = [
     name: "NodeJs",
     value: 96,
     icon: Nodejs,
-  },
-  {
-    name: "NextJs",
-    value: 97,
-    icon: Nextjs,
   },
   {
     name: "MongoDB",
@@ -121,41 +104,7 @@ export const projects = [
     url: "",
     img: portf,
   },
-  // {
-  //   id: 3,
-  //   title: "Portfolio Website",
-  //   cat: "Web Design",
-  //   url: "",
-  //   img: port2,
-  // },
-  // {
-  //   id: 4,
-  //   title: "MTS Website",
-  //   cat: "Web Design",
-  //   url: "",
-  //   img: port3,
-  // },
-  // {
-  //   id: 5,
-  //   title: "Eat Well Website",
-  //   cat: "Web Design",
-  //   url: "",
-  //   img: food,
-  // },
-  // {
-  //   id: 6,
-  //   title: "Social Media",
-  //   cat: "Web App",
-  //   url: "",
-  //   img: social,
-  // },
-  // {
-  //   id: 7,
-  //   title: "Eat Well App",
-  //   cat: "Mobile App",
-  //   url: "",
-  //   img: food1,
-  // },
+
 ];
 
 export const softskills = [
