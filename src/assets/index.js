@@ -14,14 +14,10 @@ export { default as HTML5 } from "./html.svg";
 export { default as Javascript } from "./javascript.svg";
 export { default as Python } from "./python.svg";
 
-export { default as admin } from "./work/admin.png";
+
 export { default as food } from "./work/food.png";
-export { default as food1 } from "./work/food1.jpg";
-export { default as port1 } from "./work/port1.png";
-export { default as port2 } from "./work/port2.png";
-export { default as port3 } from "./work/port3.png";
-export { default as social } from "./work/social.png";
+export { default as expense } from "./work/expense.png";
+export { default as beingmail } from "./work/beingmail.png";
 export { default as medicine } from "./work/medicine.png";
 export { default as portf } from "./work/portf.png";
-
 export { default as Profile } from "./profile.png";

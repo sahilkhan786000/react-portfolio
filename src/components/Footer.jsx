@@ -8,7 +8,7 @@ const Footer = () => {
     <footer>
       <hr className='hidden dark:block' />
 
-      <div className='w-full flex flex-col md:flex-row py-20 px-8 md:px-10 gap-10 lg:gap-20 justify-between '>
+      <div className='w-full flex flex-col md:flex-row py-5 px-8 md:px-5 gap-10 lg:gap-20 justify-between '>
         <p className='text-lg text-white font-semibold '>
           Address XYZ ST 128, IN
         </p>

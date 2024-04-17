@@ -1,7 +1,6 @@
 import React from "react";
 import { projects } from "../data";
 
-
 const Works = () => {
   return (
     <div className='w-full flex flex-col py-20 px-8 md:px-10 gap-10 lg:gap-20 lg:py-20'>
@@ -9,7 +8,7 @@ const Works = () => {
         Projetcs
       </h4>
 
-      <div className='flex flex-wrap gap-10 lg:gap-20 justify-center '>
+      <div className=' flex flex-wrap gap-20 lg:gap-30 justify-center '>
         {projects.map((p, index) => (
           <div
             data-aos='fade-up'
@@ -18,17 +17,18 @@ const Works = () => {
             data-aos-duration='1000'
             data-aos-easing='ease-in-out'
             key={index}
-            className='w-[350px] h-[350px] cursor-pointer shadow-xl hover:scale-110 ease-in-out duration-300 rounded-md '
+            className='w-[350px] h-[150px] cursor-pointer shadow-xl hover:scale-110 ease-in-out duration-300 rounded-md mb-8'
           >
             <img
               src={p.img}
               alt={p.name}
-              className='w-full h-[300px] object-cover rounded-md '
+              className='w-full h-full object-cover rounded-md'
+              style={{ objectFit: 'contain' }}
             />
 
-            <div className='w-full h-[100px] bg-white dark:bg-[#04133e]'>
+            <div className='w-full h-100px bg-white dark:bg-[#04133e]'>
               <h4 className='text-2xl text-black dark:text-white font-semibold py-2 px-1 '>
-                {p.title}
+                <a href = {p.url}>{p.title}</a>
               </h4>
               <p className='text-sm text-orange-600 px-1 uppercase'>{p.cat}</p>
             </div>

@@ -9,6 +9,9 @@ import {
   Reactjs,
   medicine,
   portf,
+  expense,
+  food,
+  beingmail
 
 } from "./assets";
 
@@ -21,14 +24,14 @@ export const projectStats = [
     name: "Website Design",
     value: "5",
   },
-  {
-    name: "Mobile App Design",
-    value: "",
-  },
-  {
-    name: "Clients worldwide",
-    value: "",
-  },
+  // {
+  //   name: "Mobile App Design",
+  //   value: "",
+  // },
+  // {
+  //   name: "Clients worldwide",
+  //   value: "",
+  // },
 ];
 
 export const tools = [
@@ -92,18 +95,45 @@ export const skills = [
 export const projects = [
   {
     id: 1,
-    title: "Admin Dashboard",
+    title: "Ilma Medcare",
     cat: "Web Design",
-    url: "",
+    url: "https://sahilkhan786000.github.io/ilma_healthcare.github.io/",
     img: medicine,
   },
   {
     id: 2,
-    title: "Portfolio Website",
+    title: "Portfolio",
     cat: "Web Design",
-    url: "",
+    url: "https://sahilkhan786000.github.io/portfolio.github.io/",
     img: portf,
   },
+
+  {
+    id: 3,
+    title: "Expense Tracker",
+    cat: "MERN Application",
+    url: "https://expense-tracker-yn48.onrender.com/",
+    img: expense,
+  },
+
+  {
+    id: 4,
+    title: "FoodAzal",
+    cat: "MERN Application",
+    url: "https://food-vs2u.onrender.com/",
+    img: food,
+  },
+
+ {
+
+  id: 5,
+  title: "BeingMail",
+  cat: "MERN Application",
+  url: "https://beingmail.onrender.com/main/emails/inbox",
+  img: beingmail,
+},
+
+
 
 ];
 

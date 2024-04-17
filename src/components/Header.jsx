@@ -35,7 +35,7 @@ const Header = () => {
         </p>
 
         <div className='mt-10 flex gap-10'>
-          <a href="/">
+          <a href="https://drive.google.com/file/d/1BHpjee-O6fhNV3TEKkPWR_m-yTavPq5S/view?usp=sharing">
           <button className=' hover:scale-110  bg-[radial-gradient(ellipse_at_top_left,_var(--tw-gradient-stops))] from-[#55079e] to-[#7f0c29] text-lg text-white font-semibold rounded-md py-3 px-5'>
             Resume 
           </button>
@@ -52,7 +52,7 @@ const Header = () => {
         <div className='w-[300px] h-[290px] md:w-[400px] md:h-[400px] 2xl:w-[500px] 2xl:h-[500px]  border rounded-full border-gray-600 dark:border-gray-200 relative  md:mt-20 lg:mt-0 flex items-center justify-center'>
           <img
             src={Profile}
-            className='w-auto h-full absolute -top-5 md:-top-10'
+            className='w-[350px] h-[350px] absolute -top-50 md:-top-15'
             data-aos='fade-down'
             data-aos-offset='200'
             data-aos-delay='50'
